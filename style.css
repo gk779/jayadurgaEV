@@ -1,0 +1,58 @@
+body {
+    align-items: center;
+    background-color: #7e96e5;
+  }
+
+  .head{
+font-size: 6rem;
+font-family: monospace;
+color: rgb(25, 12, 101);
+background-color: yellow;
+font-weight: bold;
+border: 2px solid black;
+border-radius: 15px 15px 15px 15px;
+box-shadow: 2px;
+
+  }
+
+.container{
+background-color: rgb(172, 42, 192);
+
+}
+h1{
+color: rgb(11, 155, 155);
+text-align: center;
+font-size: 3rem;
+font-family: serif;
+background-color: black;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #021325;
+    color: white;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+#map{
+    text-align: center;
+}
+
+#contact-info{
+text-align: center;
+}
+.address {
+    background-color: #eee;
+    border-left: 5px solid #333;
+    padding: 10px;
+    margin-top: 20px;
+    text-align: center;
+    background-color: rgb(193, 27, 57);
+
+}
+p{
+color: gold;
+
+}
